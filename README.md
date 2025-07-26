@@ -1,3 +1,3 @@
-Predict Dividend based on the stock market data. 
+# Predict Dividend Based On the Stock Market Data using ANN. 
 
 
